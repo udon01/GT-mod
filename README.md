@@ -1,3 +1,3 @@
 # GT-mod
-GTシリーズのmod置き場
+GTシリーズのmod置き場  
 GT series mod placement
